@@ -56,3 +56,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+![image](https://github.com/Frodogorn/ProfExpress/assets/65722715/cf9b5eee-1d96-4a54-8a8b-1a5c830d33d3)
+![image](https://github.com/Frodogorn/ProfExpress/assets/65722715/cbfb1aa2-064d-405c-affa-6ea518e35491)
+
