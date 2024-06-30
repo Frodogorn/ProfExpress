@@ -49,9 +49,6 @@ The application will be accessible at [http://localhost:3000](http://localhost:3
   - `/utils`: Utility functions (e.g., distance calculation)
 - `/public`: Static resources
 
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request to improve the project.
 
 ## License
 
